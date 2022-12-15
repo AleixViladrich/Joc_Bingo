@@ -1,0 +1,14 @@
+c:\users\usuari\onedrive\documentos\visual studio 2015\Projects\Joc_Bingo\Joc_Bingo\bin\Debug\Joc_Bingo.exe.config
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\bin\Debug\Joc_Bingo.exe
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\bin\Debug\Joc_Bingo.pdb
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\bin\Debug\Joc_Bingo.xml
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\obj\Debug\Joc_Bingo.vbprojResolveAssemblyReference.cache
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\obj\Debug\Joc_Bingo.Form1.resources
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\obj\Debug\Joc_Bingo.Resources.resources
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\obj\Debug\Joc_Bingo.vbproj.GenerateResource.Cache
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\obj\Debug\Joc_Bingo.exe
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\obj\Debug\Joc_Bingo.xml
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\obj\Debug\Joc_Bingo.pdb
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\obj\Debug\Joc_Bingo.AboutBox1.resources
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\obj\Debug\Joc_Bingo.AboutBox2.resources
+C:\Users\Usuari\OneDrive\Documentos\Visual Studio 2015\Projects\Joc_Bingo\Joc_Bingo\obj\Debug\Joc_Bingo.about.resources
